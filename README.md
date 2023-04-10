@@ -1,8 +1,8 @@
 # 💫About Me :
-Hi! I'm Tuan Kiet
+Hi! I'm Tuan Kiet. 
 I am fullstack developer
 
-## 🌐Socials
+# 🌐Socials
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@phmtunkit058) 
 
 # 💻Tech Stack
