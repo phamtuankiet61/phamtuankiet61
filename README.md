@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>💫About Me :Hi! I'm Tuan Kiet. I am fullstack developer</h1>
+  <h1>💫Hi! I'm Tuan Kiet. I am fullstack developer</h1>
   
 # 🌐Socials
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@phmtunkit058) 
