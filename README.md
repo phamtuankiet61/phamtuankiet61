@@ -14,9 +14,6 @@ I am fullstack developer
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<div style="display: flex; flex-wrap: wrap">
-  <a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"></a>
-</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=phamtuankiet61&icon=0&color=0)](https://visitcount.itsvg.in)
